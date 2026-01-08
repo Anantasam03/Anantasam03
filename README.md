@@ -11,8 +11,8 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Anantasam03?style=social&label=Follow&maxAge=2592000)](https://github.com/Anantasam03?tab=followers)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anantasamal03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananta-samal-62a982128/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 ---
